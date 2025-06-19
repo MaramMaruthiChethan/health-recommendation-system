@@ -54,5 +54,6 @@ Decision Tree is a Supervised learning technique that can be used for both class
 <img width="306" alt="Screenshot 2025-06-19 at 10 56 51 PM" src="https://github.com/user-attachments/assets/c983600b-4231-43d3-85d1-67f6d1afee3b" />
 <img width="1001" alt="Screenshot 2025-06-19 at 10 58 00 PM" src="https://github.com/user-attachments/assets/4675e80d-1e52-43b8-82ea-e7c5e3e2003f" />
 <img width="1001" alt="Screenshot 2025-06-19 at 10 58 42 PM" src="https://github.com/user-attachments/assets/9d27c2a8-0be5-4d7b-88bb-a1af36500b62" />
+<img width="1440" alt="Screenshot 2025-06-19 at 10 55 57 PM" src="https://github.com/user-attachments/assets/4177bb55-1fea-46b8-9c3c-b5500e57ac1e" />
 
 
